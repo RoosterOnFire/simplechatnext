@@ -10,6 +10,8 @@
     "serve": "pocketbase/pocketbase serve"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^2.0.17",
     "@tailwindcss/forms": "^0.5.3",
     "@types/node": "18.15.12",
     "@types/react": "18.0.37",
